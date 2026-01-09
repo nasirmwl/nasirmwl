@@ -7,6 +7,6 @@ BSc in Computer Engineering
 open source, js, react, machine learning
 <br/>
   <a href="https://az.linkedin.com/in/nasir-movlamov-322ab21b4">linkedin</a><br>
-  <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ">youtube</a>
+  <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ">youtube channel</a>
 <br/>
  <a href="https://www.nasirmovlamov.com">www.nasirmovlamov.com </a>
