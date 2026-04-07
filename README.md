@@ -1,4 +1,4 @@
- Software Engineer at  <a href="https://abb-bank.az">ABB</a>
+ Software Engineer at  <a href="https://abb-bank.az">National Artificial Intelligence Center</a>
  <br/>
 MSc in Artificial Intelligence
 <br/>
