@@ -1,4 +1,4 @@
-Software Engineer at  <a href="https://abb-bank.az">National Artificial Intelligence Center</a>
+Software Engineer at  <a href="https://naic.az">National Artificial Intelligence Center</a>
 <br/>
 <br/>
 I am currently **Researching Autonomous Multimodal Agents** for perception–reasoning–action in interactive digital environments.
