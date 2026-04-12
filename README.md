@@ -1,7 +1,7 @@
 Software Engineer at  <a href="https://naic.az">National Artificial Intelligence Center</a>
 <br/>
 <br/>
-I am currently **Researching Autonomous Multimodal Agents** for perception–reasoning–action in interactive digital environments.
+I am currently researching **Autonomous Multimodal Agents** for perception–reasoning–action.
 <br/>
 <br/>
 MSc in Artificial Intelligence (ASOIU university)
