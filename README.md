@@ -9,7 +9,6 @@ MSc in Artificial Intelligence (ASOIU university)
 BSc in Computer Engineering  (ASOIU university)
 <br/>
 <br/>
-For more detailed info about my background you can check these links.
 <br/>
   <a href="https://www.nasirmovlamov.com">www.nasirmovlamov.com </a><br>
   <a href="https://az.linkedin.com/in/nasir-movlamov-322ab21b4">linkedin</a><br>
